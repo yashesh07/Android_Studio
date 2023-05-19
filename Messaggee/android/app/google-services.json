@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986162105862",
+    "project_id": "messaggee-9533b",
+    "storage_bucket": "messaggee-9533b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986162105862:android:73bee8323c68bac7ad3d87",
+        "android_client_info": {
+          "package_name": "com.yashesh07.messaggee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986162105862-sioav2e4dmj1a97glpkb0880dfp4cihd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXf1ssKiTyXkHeaItMMztWvXHVs4gB2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986162105862-sioav2e4dmj1a97glpkb0880dfp4cihd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
